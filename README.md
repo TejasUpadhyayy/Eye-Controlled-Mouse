@@ -79,5 +79,5 @@ Eye-Controlled Mouse is an innovative project that allows users to control the m
 
 For any queries, suggestions, or collaboration opportunities, feel free to reach out:
 
-- **Email**: [your-email@example.com]
+- **Email**: [tejas.initiate@gmail.com]
 - **LinkedIn**: [Your LinkedIn Profile](#)
